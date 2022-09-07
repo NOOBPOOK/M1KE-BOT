@@ -1,0 +1,12 @@
+git+https://github.com/nextcord/nextcord
+google==3.0.0
+numpy==1.21.3
+pycparser==2.20
+PyNaCl==1.4.0
+python-dotenv==0.19.1
+pyttsx3==2.90
+sgmllib3k==1.0.0
+wikipedia==1.4.0
+youtube-dl==2021.6.6
+humanfriendly==10.0
+DateTime==4.4
